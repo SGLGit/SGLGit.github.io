@@ -1,3 +1,12 @@
-﻿url_key,eng_key,chi_key
-"/zh/shop, /zh/product/",Add to Cart,加到購物車
-"/zh/shop, /zh/product/",Buy Now,即時購買
+﻿url_key,is_delay,eng_key,chi_key
+"/zh/shop, /zh/product/",,Add to Cart,加到購物車
+"/zh/shop, /zh/product/",,Buy Now,即時購買
+/zh/checkout,,Your order,你的訂單
+/zh/checkout,1,Pay with credit card / debit card,以信用卡/轉帳卡付款
+/zh/checkout,1,Save payment information to my account for future purchases.,儲存付款資訊以便未來付款之用
+/zh/checkout,1,Test mode:,測試模式︰
+/zh/checkout,1,use the test VISA card 4242424242424242 with any expiry date and CVC. Other payment methods may redirect to a Stripe test page to authorize payment. More test card numbers are listed,信用卡號碼為4242424242424242，其他則無限制。
+/zh/checkout,1,Individual Plus&nbsp;,星級個人&nbsp;
+/zh/checkout,1,Individual&nbsp;,個人&nbsp;
+/zh/checkout,1,Business&nbsp;,商戶&nbsp;
+/zh/checkout,1,>here</a>.,>（參考）</a>
