@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#231F20;}
-</style>
-<g id="_x32_">
-	<path id="icon_1_" class="st0" d="M250,309c-32.5,0-59-26.5-59-59s26.5-59,59-59s59,26.5,59,59S282.5,309,250,309z M250,196.7
-		c-29.4,0-53.3,23.9-53.3,53.3s23.9,53.3,53.3,53.3s53.3-23.9,53.3-53.3S279.4,196.7,250,196.7z M273,253.3h-19.7V273h-6.6v-19.7
-		H227v-6.6h19.7V227h6.6v19.7H273V253.3z"/>
-</g>
-<g id="Layer_1_1_">
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:v="https://vecta.io/nano"><path d="M250 309c-32.5 0-59-26.5-59-59s26.5-59 59-59 59 26.5 59 59-26.5 59-59 59zm0-112.3c-29.4 0-53.3 23.9-53.3 53.3s23.9 53.3 53.3 53.3 53.3-23.9 53.3-53.3-23.9-53.3-53.3-53.3zm23 56.6h-19.7V273h-6.6v-19.7H227v-6.6h19.7V227h6.6v19.7H273v6.6z" fill="#231f20"/></svg>
